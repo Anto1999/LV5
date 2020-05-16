@@ -1,0 +1,11 @@
+C:\Users\Nune\source\repos\lv_5_doop\obj\Debug\netcoreapp2.1\lv_5_doop.csprojAssemblyReference.cache
+C:\Users\Nune\source\repos\lv_5_doop\obj\Debug\netcoreapp2.1\lv_5_doop.csproj.CoreCompileInputs.cache
+C:\Users\Nune\source\repos\lv_5_doop\obj\Debug\netcoreapp2.1\lv_5_doop.AssemblyInfoInputs.cache
+C:\Users\Nune\source\repos\lv_5_doop\obj\Debug\netcoreapp2.1\lv_5_doop.AssemblyInfo.cs
+C:\Users\Nune\source\repos\lv_5_doop\bin\Debug\netcoreapp2.1\lv_5_doop.deps.json
+C:\Users\Nune\source\repos\lv_5_doop\bin\Debug\netcoreapp2.1\lv_5_doop.runtimeconfig.json
+C:\Users\Nune\source\repos\lv_5_doop\bin\Debug\netcoreapp2.1\lv_5_doop.runtimeconfig.dev.json
+C:\Users\Nune\source\repos\lv_5_doop\bin\Debug\netcoreapp2.1\lv_5_doop.dll
+C:\Users\Nune\source\repos\lv_5_doop\bin\Debug\netcoreapp2.1\lv_5_doop.pdb
+C:\Users\Nune\source\repos\lv_5_doop\obj\Debug\netcoreapp2.1\lv_5_doop.dll
+C:\Users\Nune\source\repos\lv_5_doop\obj\Debug\netcoreapp2.1\lv_5_doop.pdb
